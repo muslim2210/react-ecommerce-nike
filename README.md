@@ -12,10 +12,21 @@ Currently, two official plugins are available:
 - Tailindcss
 
 ## Resource
+
  Google font: https://fonts.google.com/
+ 
  image : https://www.nike.com/id/
 
 ## Preview
 
-![alt text](https://github.com/muslim2210/react-movie-v5/blob/master/public/react-movie-review.png?raw=true)
+![alt text](https://github.com/muslim2210/react-nike-vite/blob/master/public/Screenshot%202024-01-23%20142717.png?raw=true)
+
+
+![alt text](https://github.com/muslim2210/react-nike-vite/blob/master/public/nike-preview1.png?raw=true)
+
+
+![alt text](https://github.com/muslim2210/react-nike-vite/blob/master/public/localhost_5173_.png?raw=true)
+
+
+
 
