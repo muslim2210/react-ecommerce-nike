@@ -19,12 +19,16 @@ Currently, two official plugins are available:
 
 ## Preview
 
+
+### Home
 ![alt text](https://github.com/muslim2210/react-nike-vite/blob/master/public/Screenshot%202024-01-23%20142717.png?raw=true)
 
 
+### Responsive Preview
 ![alt text](https://github.com/muslim2210/react-nike-vite/blob/master/public/nike-preview1.png?raw=true)
 
 
+### Full Website
 ![alt text](https://github.com/muslim2210/react-nike-vite/blob/master/public/localhost_5173_.png?raw=true)
 
 
