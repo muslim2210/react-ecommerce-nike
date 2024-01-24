@@ -21,7 +21,7 @@ const Nav = () => {
 
   return (
     <header
-      className={`padding-x bg-white py-8 fixed z-50 w-full  ${
+      className={`padding-x py-8 fixed z-50 w-full  ${
         navbar ? "bg-white shadow-md" : "bg-transparent"
       }`}
     >
