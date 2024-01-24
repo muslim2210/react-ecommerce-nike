@@ -22,7 +22,7 @@ const Nav = () => {
   return (
     <header
       className={`padding-x bg-white py-8 fixed z-50 w-full  ${
-        navbar ? "bg-white shadow-xl" : "bg-transparent"
+        navbar ? "bg-white shadow-md" : "bg-transparent"
       }`}
     >
       <nav className="flex justify-between items-center max-container">
