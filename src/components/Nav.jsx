@@ -22,7 +22,7 @@ const Nav = () => {
   return (
     <header
       className={`padding-x bg-white py-8 fixed z-50 w-full  ${
-        navbar ? "backdrop-blur-xl bg-white/70" : "bg-transparent"
+        navbar ? "bg-white shadow-xl" : "bg-transparent"
       }`}
     >
       <nav className="flex justify-between items-center max-container">
@@ -54,7 +54,7 @@ const Nav = () => {
         </div>
       </nav>
       <div
-        className={`mt-5 backdrop-blur-md bg-white/30 lg:hidden ${
+        className={`mt-5 bg-white lg:hidden ${
           toggleNavbar ? "block" : "hidden"
         }`}
       >
