@@ -9,7 +9,7 @@ import Footer from "./sections/Footer";
 import Nav from "./components/Nav";
 
 const App = () => (
-  <main className="realtive">
+  <main className="relative">
     <Nav />
     <section className="xl:padding-l wide:padding-r padding-b">
       <Hero />
