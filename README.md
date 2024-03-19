@@ -9,7 +9,7 @@ Currently, two official plugins are available:
 
 ## Nike-Vite Landing Page
 - Responsive website landing page with react+vite
-- Tailindcss
+- Tailwindcss
 
 ## Resource
 
